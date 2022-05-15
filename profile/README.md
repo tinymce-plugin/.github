@@ -14,5 +14,3 @@
 # 👍 贡献者列表
 
 <a href="https://opencollective.com/tinymce-plugin/contributors.svg?width=890&button=false"><img src="https://opencollective.com/tinymce-plugin/contributors.svg?width=890&button=false" /></a>
-
----
