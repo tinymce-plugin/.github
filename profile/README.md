@@ -1,14 +1,8 @@
 # **👋 Welcome !**
 
 > 欢迎来到 [**`Tinymce-plugin`** ](https://github.com/tinymce-plugin)
->
 >这是一个专注 提供 **强大、好用、丰富** 的 [`tinymce`](https://www.tiny.cloud) 富文本编辑器 **插件**、**扩展** 和 **技术** 的技术社区，方便 **交流讨论**，**分享经验** 。
-> 
 > 本社区有多个不错的插件或者项目，欢迎 Star ⭐ 关注~
->
-
-
-
 # ✨Tinymce-plugin
 ---
 
@@ -18,23 +12,13 @@
 [![GitHub license](https://img.shields.io/github/license/tinymce-plugin/tp-indent2em.svg)](https://github.com/tinymce-plugin/tp-indent2em/blob/main/LICENSE)&nbsp;
 [![tinymce Version](https://img.shields.io/npm/dm/@npkg/tinymce-plugins)](https://www.tiny.cloud)
 
-
 **Tinymce-plugin 社区 所有稳定插件 将收录在 [**tinymce-plugin**](https://www.npmjs.com/package/tinymce-plugin) 和 [**@npkg/tinymce-plugin**](https://www.npmjs.com/package/@npkg/tinymce-plugin) 中。（二者同步）**
 
-
-
-
 🚀 表示已经实现的功能
-
 👷 表示进行中的功能
-
 ⏳ 表示规划中的功能
-
 💡 想法
-
 📝 计划
-
-
 ### 注意
 旧版包 [~~**`@npkg/tinymce-plugins`**~~](https://www.npmjs.com/package/@npkg/tinymce-plugins) 停止维护
 
@@ -42,7 +26,6 @@
 
 # 🙋‍♂️ 加入社区
 ---
-
 如果你正在使用tinymce，不妨加入 Tinymce-plugin 组织，和我们一起维护发展，共同成长。可以通过以下两种方式加入：
 
 - 直接在这个 [_***issue***_](https://github.com/tinymce-plugin/tinymce-plugin.github.io/issues/3) 上评论，告知我们你想加入 tinymce-plugin。
