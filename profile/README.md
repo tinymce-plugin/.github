@@ -11,3 +11,8 @@
 [![tinymce Version](https://img.shields.io/npm/dm/@npkg/tinymce-plugins)](https://www.tiny.cloud)
 
 **Tinymce-plugin 社区 所有稳定插件 将收录在 [**tinymce-plugin**](https://www.npmjs.com/package/tinymce-plugin) 和 [**@npkg/tinymce-plugin**](https://www.npmjs.com/package/@npkg/tinymce-plugin) 中。（二者同步）**
+# 👍 贡献者列表
+
+<a href="https://opencollective.com/tinymce-plugin/contributors.svg?width=890&button=false"><img src="https://opencollective.com/tinymce-plugin/contributors.svg?width=890&button=false" /></a>
+
+---
